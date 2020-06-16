@@ -474,7 +474,9 @@ header span{
         display:grid;
         grid-template-columns: 1fr;
     }
-    
+    .home_pic img {
+        height: 280px;
+    }
     
 }
 
