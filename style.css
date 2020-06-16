@@ -347,7 +347,7 @@ header span{
 }
 
 .fab {
-	margin: 18px 0px;
+	padding-bottom: 20px;
 	padding: 10px;
 	font-size: 30px;
     color:#feffff;
